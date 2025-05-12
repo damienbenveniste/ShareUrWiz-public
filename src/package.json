@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "@stripe/react-stripe-js": "^1.4.1",
+    "@stripe/stripe-js": "^1.17.1",
+    "babel": "^6.23.0",
+    "react-infinite-loader": "^1.0.4",
+    "react-rating": "^2.0.5",
+    "react-rating-stars-component": "^2.2.0",
+    "types": "^0.1.1"
+  }
+}
